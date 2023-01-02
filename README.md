@@ -1,7 +1,5 @@
-- 👋 We are the Laboratory of Molecular Modelling and Computation Simulation 
-- of the Chemistry Department at the University of Coimbra (Portugal).
-- 👀 We are interested in Computational and Theoretical Chemistry, programming (Fortran, Python),
--  Global Optimization, Electronic Structure Calculations and Molecular Dynamics
+- 👋 We are the Laboratory of Molecular Modelling and Computation Simulation of the Chemistry Department at the University of Coimbra (Portugal).
+- 👀 We are interested in Computational and Theoretical Chemistry, programming (Fortran, Python), Global Optimization, Electronic Structure Calculations and Molecular Dynamics
 
 
 <!---
